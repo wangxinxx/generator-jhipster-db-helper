@@ -1,16 +1,16 @@
 {
-  "name": "generator-jhipster-db-helper",
+  "name": "generator-jhipster-database-helper",
   "version": "1.2.0",
   "description": "A JHipster module for already existing databases",
   "keywords": [
     "yeoman-generator",
     "jhipster-module"
   ],
-  "homepage": "https://github.com/bastienmichaux/generator-jhipster-db-helper",
+  "homepage": "https://github.com/MYuitsu/generator-jhipster-db-helper",
   "author": {
-    "name": "Bastien Michaux",
-    "email": "bastienmichaux@gmail.com",
-    "url": "https://github.com/bastienmichaux/generator-jhipster-db-helper"
+    "name": "MYuitsu",
+    "email": "nguyenthaiduy277@gmail.com",
+    "url": "https://github.com/MYuitsu/generator-jhipster-db-helper"
   },
   "files": [
     "generators"
@@ -18,7 +18,7 @@
   "main": "generators/app/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bastienmichaux/generator-jhipster-db-helper.git"
+    "url": "git+https://github.com/MYuitsu/generator-jhipster-db-helper.git"
   },
   "dependencies": {
     "chalk": "2.4.0",
@@ -52,6 +52,6 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/bastienmichaux/generator-jhipster-db-helper/issues"
+    "url": "https://github.com/MYuitsu/generator-jhipster-db-helper/issues"
   }
 }
